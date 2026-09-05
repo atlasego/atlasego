@@ -44,45 +44,124 @@ motto: "Fikirleri çalışan ürünlere dönüştürüyorum."
 
 ## Teknoloji Yığını
 
-Bu bölümde kullandığım teknolojilerin sadece isimlerini değil, **ne işe yaradıklarını** da görebilirsin.
+<div align="center">
 
-### Backend ve Otomasyon
+<table>
+<tr>
+<td align="center" width="90">
+<a href="https://docs.python.org/3/">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"><br>
+<sub><b>Python</b></sub>
+</a>
+</td>
 
-| Teknoloji | Ne işe yarıyor? |
-|---|---|
-| **Python** | Backend servisleri, otomasyonlar, dosya işleme ve yardımcı araçlar geliştirmek için kullandığım ana dillerden biri. |
-| **FastAPI** | Python ile hızlı, modern ve tip güvenli REST API'ler geliştirmeyi sağlar. |
-| **Redis** | Önbellek, geçici veri, rate limit ve arka plan iş kuyruklarında kullanılır. |
+<td align="center" width="90">
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"><br>
+<sub><b>FastAPI</b></sub>
+</a>
+</td>
 
-### Frontend
+<td align="center" width="90">
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"><br>
+<sub><b>React</b></sub>
+</a>
+</td>
 
-| Teknoloji | Ne işe yarıyor? |
-|---|---|
-| **React** | Etkileşimli ve bileşen tabanlı web arayüzleri oluşturmak için kullanılır. |
-| **Next.js** | React üzerine routing, build, optimizasyon ve production web uygulaması altyapısı ekler. |
-| **TypeScript** | JavaScript'e tip güvenliği ekleyerek büyük projelerde hataları azaltır. |
-| **Node.js** | JavaScript/TypeScript araçlarının, build süreçlerinin ve bazı sunucu tarafı işlemlerin çalışmasını sağlar. |
-| **HTML5** | Web sayfalarının temel yapısını oluşturur. |
-| **CSS3** | Arayüzün tasarımını, responsive düzenini ve görsel davranışlarını belirler. |
+<td align="center" width="90">
+<a href="https://nextjs.org/docs">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"><br>
+<sub><b>Next.js</b></sub>
+</a>
+</td>
 
-### Altyapı ve Dağıtım
+<td align="center" width="90">
+<a href="https://www.typescriptlang.org/docs/">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"><br>
+<sub><b>TypeScript</b></sub>
+</a>
+</td>
+</tr>
 
-| Teknoloji | Ne işe yarıyor? |
-|---|---|
-| **Docker** | Uygulamaları bağımlılıklarıyla birlikte izole container'larda çalıştırır. |
-| **Nginx** | Reverse proxy, HTTPS yönlendirme ve statik içerik sunumu için kullanılır. |
-| **Linux** | Projelerin çalıştığı sunucu ve geliştirme ortamlarının temel işletim sistemi. |
+<tr>
+<td align="center" width="90">
+<a href="https://nodejs.org/docs/latest/api/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"><br>
+<sub><b>Node.js</b></sub>
+</a>
+</td>
 
-### Geliştirme Araçları
+<td align="center" width="90">
+<a href="https://docs.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"><br>
+<sub><b>Docker</b></sub>
+</a>
+</td>
 
-| Teknoloji | Ne işe yarıyor? |
-|---|---|
-| **Git** | Kod değişikliklerini sürümlemek ve geçmişi yönetmek için kullanılır. |
-| **GitHub** | Repoları barındırmak, paylaşmak ve proje geçmişini yönetmek için kullanılır. |
-| **VS Code** | Kod yazma, düzenleme, terminal ve proje yönetimi için kullandığım geliştirme editörü. |
+<td align="center" width="90">
+<a href="https://redis.io/docs/latest/">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"><br>
+<sub><b>Redis</b></sub>
+</a>
+</td>
 
-> Buradaki teknoloji adları artık görsel değil. Bu yüzden tıkladığında ham görsel sayfası açılmaz.
+<td align="center" width="90">
+<a href="https://nginx.org/en/docs/">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"><br>
+<sub><b>Nginx</b></sub>
+</a>
+</td>
 
+<td align="center" width="90">
+<a href="https://www.kernel.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"><br>
+<sub><b>Linux</b></sub>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<a href="https://git-scm.com/doc">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br>
+<sub><b>Git</b></sub>
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="https://docs.github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"><br>
+<sub><b>GitHub</b></sub>
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="https://code.visualstudio.com/docs">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"><br>
+<sub><b>VS Code</b></sub>
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="https://developer.mozilla.org/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"><br>
+<sub><b>HTML5</b></sub>
+</a>
+</td>
+
+<td align="center" width="90">
+<a href="https://developer.mozilla.org/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"><br>
+<sub><b>CSS3</b></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<sub>Bir ikona tıkladığında ilgili teknolojinin resmi dokümantasyonu açılır.</sub>
+
+</div>
 
 ---
 
