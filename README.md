@@ -127,14 +127,17 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 <div align="center">
 
 <a href="https://tools.atlasego.com"><img src="https://img.shields.io/badge/OnlyTools-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="OnlyTools" /></a>
+<a href="https://insta.atlasego.com"><img src="https://img.shields.io/badge/OnlyInsta-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="OnlyInsta" /></a>
+<a href="https://panel.atlasego.com"><img src="https://img.shields.io/badge/OnlyWP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="OnlyWP" /></a>
 <a href="https://github.com/atlasego"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.instagram.com/atlasego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br>
 
-<a href="https://www.tiktok.com/@atlasyon"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://www.youtube.com/@Atlasego"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://t.me/atlasego"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.instagram.com/atlasego/"><img src="https://img.shields.io/badge/Instagram-@atlasego-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@atlasyon"><img src="https://img.shields.io/badge/TikTok-@atlasyon-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.youtube.com/@Atlasego"><img src="https://img.shields.io/badge/YouTube-@Atlasego-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://t.me/atlasego"><img src="https://img.shields.io/badge/Telegram-@atlasego-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://wa.me/atlasego"><img src="https://img.shields.io/badge/WhatsApp-Atlas_Ego-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
