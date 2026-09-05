@@ -8,18 +8,6 @@
 
 </div>
 
-<br>
-
-<a href="https://github.com/atlasego?tab=followers">
-<img src="https://img.shields.io/github/followers/atlasego?label=TAK%C4%B0P%C3%87%C4%B0&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=7C3AED" alt="GitHub takipçi sayısı">
-</a>
-
-<a href="https://github.com/atlasego/onlytools-docs/stargazers">
-<img src="https://img.shields.io/github/stars/atlasego/onlytools-docs?label=ONLYTOOLS%20STAR&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=A855F7" alt="OnlyTools yıldızları">
-</a>
-
-<img src="https://img.shields.io/badge/%C3%96NE%20%C3%87IKAN%20PROJE-3-9333EA?style=for-the-badge&labelColor=111827" alt="3 öne çıkan proje">
-
 
 ---
 
