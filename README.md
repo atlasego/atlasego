@@ -44,11 +44,45 @@ motto: "Fikirleri çalışan ürünlere dönüştürüyorum."
 
 ## Teknoloji Yığını
 
-<div align="center">
+Bu bölümde kullandığım teknolojilerin sadece isimlerini değil, **ne işe yaradıklarını** da görebilirsin.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,nodejs,docker,redis,nginx,linux,git,github,vscode,html,css&perline=8" alt="Teknolojiler" />
+### Backend ve Otomasyon
 
-</div>
+| Teknoloji | Ne işe yarıyor? |
+|---|---|
+| **Python** | Backend servisleri, otomasyonlar, dosya işleme ve yardımcı araçlar geliştirmek için kullandığım ana dillerden biri. |
+| **FastAPI** | Python ile hızlı, modern ve tip güvenli REST API'ler geliştirmeyi sağlar. |
+| **Redis** | Önbellek, geçici veri, rate limit ve arka plan iş kuyruklarında kullanılır. |
+
+### Frontend
+
+| Teknoloji | Ne işe yarıyor? |
+|---|---|
+| **React** | Etkileşimli ve bileşen tabanlı web arayüzleri oluşturmak için kullanılır. |
+| **Next.js** | React üzerine routing, build, optimizasyon ve production web uygulaması altyapısı ekler. |
+| **TypeScript** | JavaScript'e tip güvenliği ekleyerek büyük projelerde hataları azaltır. |
+| **Node.js** | JavaScript/TypeScript araçlarının, build süreçlerinin ve bazı sunucu tarafı işlemlerin çalışmasını sağlar. |
+| **HTML5** | Web sayfalarının temel yapısını oluşturur. |
+| **CSS3** | Arayüzün tasarımını, responsive düzenini ve görsel davranışlarını belirler. |
+
+### Altyapı ve Dağıtım
+
+| Teknoloji | Ne işe yarıyor? |
+|---|---|
+| **Docker** | Uygulamaları bağımlılıklarıyla birlikte izole container'larda çalıştırır. |
+| **Nginx** | Reverse proxy, HTTPS yönlendirme ve statik içerik sunumu için kullanılır. |
+| **Linux** | Projelerin çalıştığı sunucu ve geliştirme ortamlarının temel işletim sistemi. |
+
+### Geliştirme Araçları
+
+| Teknoloji | Ne işe yarıyor? |
+|---|---|
+| **Git** | Kod değişikliklerini sürümlemek ve geçmişi yönetmek için kullanılır. |
+| **GitHub** | Repoları barındırmak, paylaşmak ve proje geçmişini yönetmek için kullanılır. |
+| **VS Code** | Kod yazma, düzenleme, terminal ve proje yönetimi için kullandığım geliştirme editörü. |
+
+> Buradaki teknoloji adları artık görsel değil. Bu yüzden tıkladığında ham görsel sayfası açılmaz.
+
 
 ---
 
