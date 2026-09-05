@@ -126,11 +126,15 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 
 <div align="center">
 
-[![OnlyTools](https://img.shields.io/badge/ONLYTOOLS-tools.atlasego.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tools.atlasego.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@atlasego-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atlasego/)
-[![TikTok](https://img.shields.io/badge/TIKTOK-@atlasyon-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@atlasyon)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-@Atlasego-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Atlasego)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-@atlasego-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atlasego)
+<a href="https://tools.atlasego.com"><img src="https://img.shields.io/badge/OnlyTools-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="OnlyTools" /></a>
+<a href="https://github.com/atlasego"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/atlasego/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br>
+
+<a href="https://www.tiktok.com/@atlasyon"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.youtube.com/@Atlasego"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://t.me/atlasego"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
@@ -140,6 +144,6 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 
 **Kod yazmakla kalmıyorum; çalışan ürünler inşa ediyorum.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:6D28D9,100:9333EA" alt="" />
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:111827,50:6D28D9,100:9333EA" alt="" />
