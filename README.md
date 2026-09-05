@@ -107,16 +107,16 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=atlasego&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=C9D1D9&include_all_commits=true" alt="GitHub istatistikleri" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasego&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="En çok kullanılan diller" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atlasego&theme=tokyonight" alt="GitHub istatistikleri" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlasego&theme=tokyonight" alt="Depolara göre kullanılan diller" />
 
 <br><br>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=atlasego&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlasego&theme=tokyonight" alt="GitHub profil özeti" />
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atlasego&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc&area=true&area_color=6d28d9&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Katkı grafiği" />
+<img width="98%" src="https://streak-stats.demolab.com?user=atlasego&theme=tokyonight&hide_border=true" alt="GitHub seri istatistiği" />
 
 </div>
 
