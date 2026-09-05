@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,50:6D28D9,100:9333EA&text=ATLAS%20EGO&fontColor=ffffff&fontSize=64&fontAlignY=37&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Digital%20Creator&descAlignY=58&descSize=19&animation=fadeIn" alt="Atlas Ego" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Web+Development+%E2%80%A2+Automation+%E2%80%A2+Digital+Products;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+/%E2%80%A2+Next.js;Building+OnlyTools+%E2%80%A2+OnlyInsta+%E2%80%A2+OnlyFast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Web+Development+%E2%80%A2+Automation+%E2%80%A2+Digital+Products;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Next.js;Building+OnlyTools+%E2%80%A2+OnlyInsta+%E2%80%A2+OnlyFast" alt="Typing animation" />
 
 <br>
 
@@ -13,18 +13,18 @@
 
 ---
 
-## ✩ Hakkımda
+## Hakkımda
 
 ```yaml
 isim: "Atlas Ego"
 konum: "İstanbul, Türkiye"
-alan: "Bilişim & Dijital Ürünler"
+alan: "Bilişim ve Dijital Ürünler"
 
 odak:
   - Web uygulamaları
   - Otomasyon sistemleri
   - Dosya işleme araçları
-  - Dijital ürün gelistirme
+  - Dijital ürün geliştirme
 
 üzerinde_çalıştıklarım:
   - OnlyTools
@@ -37,12 +37,12 @@ stack:
   - Docker / Redis / Nginx
   - Linux / Git / GitHub
 
-motto: "Fikirleri çalışan ürünlere dönüştür."
+motto: "Fikirleri çalışan ürünlere dönüştürüyorum."
 ```
 
 ---
 
-## ⚙️ Teknoloji YAğını
+## Teknoloji Yığını
 
 <div align="center">
 
@@ -52,49 +52,50 @@ motto: "Fikirleri çalışan ürünlere dönüştür."
 
 ---
 
-## 🚨 öne Çıkan Projeler
+## Öne Çıkan Projeler
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚑ ️ OnlyTools
+### OnlyTools
 
-Görsel, video, ses ve PDF işlemleri hç�ın geliştirdiğim çok dilli web araçları platformu.
+Görsel, video, ses ve PDF işlemleri için geliştirdiğim çok dilli web araçları platformu.
 
 **29 araç • 20 dil • OCR • PDF • medya işleme**
 
-[🌐 Canlı Sistem](https://tools.atlasego.com) · [📐 Dokümantasyon](https://github.com/atlasego/onlytools-docs)
+[Canlı sistem](https://tools.atlasego.com) · [Dokümantasyon](https://github.com/atlasego/onlytools-docs)
 
 </td>
 <td width="50%" valign="top">
 
-### 📩 OnlyInsta
+### OnlyInsta
 
 Herkese açık Instagram içerikleri için geliştirdiğim medya indirme ve yönetim projesi.
 
-**Web uygulaması • medya isleme • otomasyon**
+**Web uygulaması • medya işleme • otomasyon**
 
-[📐 Dokümantasyon](https://github.com/atlasego/onlyinsta-docs)
+[Dokümantasyon](https://github.com/atlasego/onlyinsta-docs)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💖 OnlyFast
+### OnlyFast
 
-WhatsApp tabanlı otomasyon ve yardımcı işlevler hç�ın geliştirdiğim modüler bot projesi.
+WhatsApp tabanlı otomasyon ve yardımcı işlevler için geliştirdiğim modüler bot projesi.
 
-**Otomasyon • bot altyapıs ı • entegrasyonlar**
+**Otomasyon • bot altyapısı • servis entegrasyonları**
+
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Yeni Projeler
+### Yeni Projeler
 
 Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ediyorum.
 
-[→ Rüm Repoları Gör](https://github.com/atlasego?tab=repositories)
+[Tüm repoları görüntüle](https://github.com/atlasego?tab=repositories)
 
 </td>
 </tr>
@@ -102,27 +103,26 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 
 ---
 
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=atlasego&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=C9D1D9&include_all_commits=true" alt="GitHub istatistikleri" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasego&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="En cok kullanilan diller" />
-
-<br><br>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=atlasego&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&curStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasego&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="En çok kullanılan diller" />
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atlasego&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc&area=true&area_color=6d28d9&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Gi" alt="Katki grafigi" />
+<img width="96%" src="https://streak-stats.demolab.com?user=atlasego&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atlasego&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc&area=true&area_color=6d28d9&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Katkı grafiği" />
 
 </div>
 
 ---
 
-## 🌐 Baglantilar
+## Bağlantılar
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Web araçları, otomasyon sistemleri ve dijital ürünler geliştirmeye devam ed
 
 <div align="center">
 
-**Kod yazmakla kalmiyorum; calisan urunler insa ediyorum.**
+**Kod yazmakla kalmıyorum; çalışan ürünler inşa ediyorum.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:6D28D9,100:9333EA" alt="" />
 
